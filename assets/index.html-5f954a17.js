@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0527fcfc","path":"/tag/tools/","title":"tools 标签","lang":"zh-CN","frontmatter":{"title":"tools 标签","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"tools","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

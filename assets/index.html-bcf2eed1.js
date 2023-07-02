@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ebda9692","path":"/blog/aigc/","title":"Aigc","lang":"zh-CN","frontmatter":{"title":"Aigc","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

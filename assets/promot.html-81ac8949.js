@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t}from"./app-b5401eb7.js";const r={};function c(_,m){return e(),t("div")}const a=o(r,[["render",c],["__file","promot.html.vue"]]);export{a as default};
